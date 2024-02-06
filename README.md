@@ -19,4 +19,6 @@ If working correctly, you should see the server start and print the (colorized) 
 
 Interesting in making tools, reverse engineering, or working towards modding Enshrouded? Join the discord! 
 
-![Enshrouded Modding Discord Banner](https://discordapp.com/api/guilds/1203473669343412234/widget.png?style=banner3)
+[![Enshrouded Modding Discord Banner](https://discordapp.com/api/guilds/1203473669343412234/widget.png?style=banner3)](https://discord.gg/Z8yqQ9EtJs)
+
+https://discord.gg/Z8yqQ9EtJs
